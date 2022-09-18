@@ -1,0 +1,13 @@
+Start
+Input N, M == 10
+
+If  n%2==0
+
+ if its true 
+     print "eveN"
+
+ ELSE n+=m;
+
+ print Sum
+
+End
